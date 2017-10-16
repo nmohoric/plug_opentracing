@@ -35,6 +35,7 @@ defmodule PlugOpenTracing.Mixfile do
 
   defp deps do
     [
+      {:ex_doc, ">= 0.0.0", only: :dev},
       {:plug, "~> 1.3"},
       {:ibrowse, "~> 4.4"},
       {:otter, "~> 0.2.0"},

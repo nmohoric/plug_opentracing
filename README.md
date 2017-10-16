@@ -1,6 +1,8 @@
 # PlugOpenTracing
 
 [![Build Status](https://travis-ci.org/nmohoric/plug_opentracing.svg?branch=master)](https://travis-ci.org/nmohoric/plug_opentracing)
+[![Hex.pm](https://img.shields.io/hexpm/v/plug_opentracing.svg)](https://hex.pm/packages/plug_opentracing)
+[![Documentation](https://img.shields.io/badge/Documentation-online-c800c8.svg)](http://hexdocs.pm/plug_opentracing)
 
 An Elixir Plug for adding OpenTracing instrumentation.
 
